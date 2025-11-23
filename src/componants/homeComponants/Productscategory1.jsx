@@ -33,6 +33,7 @@ const Productscategory1 = () => {
                   key={`${pro.id}-${index}`}
                   className="border min-w-[180px] max-w-[200px] flex flex-col items-center rounded-md px-2 py-4 mx-3 bg-white shadow-sm hover:shadow-md transition-transform duration-300 hover:scale-[1.03]"
                 >
+                    <p>{pro.id}</p>
                   <img
                     src={pro.image}
                     alt={pro.name}
