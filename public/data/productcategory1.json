@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphones",
+    "image": "https://electron.ninetheme.com/wp-content/uploads/2023/08/product2-5-1-60x60.png"
+  },
+  {
+    "id": 2,
+    "name": "Laptops",
+    "image": "https://electron.ninetheme.com/wp-content/uploads/2023/08/3-20-1-60x60.png"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "image": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-24-1-60x60.png"
+  },
+  {
+    "id": 4,
+    "name": "Smart Watches",
+    "image": "https://electron.ninetheme.com/wp-content/uploads/2023/07/2-2-1-60x60.jpg"
+  },
+  {
+    "id": 5,
+    "name": "New Tab",
+    "image": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-35-1-60x60.png"
+  },
+  {
+    "id": 6,
+    "name": "Speakers",
+    "image": "https://electron.ninetheme.com/wp-content/uploads/2023/08/3-15-1-60x60.png"
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Earbuds",
+    "image": "https://electron.ninetheme.com/wp-content/uploads/2023/08/4-5-1-60x60.png"
+  },
+  {
+    "id": 8,
+    "name": "Cameras",
+    "image": "https://electron.ninetheme.com/wp-content/uploads/2023/08/2-17-1-60x60.png"
+  },
+  {
+    "id": 9,
+    "name": "Monitors",
+    "image": "https://electron.ninetheme.com/wp-content/uploads/2023/07/product1-2-60x60.png"
+  },
+  {
+    "id": 10,
+    "name": "Keyboards",
+    "image": "https://electron.ninetheme.com/wp-content/uploads/2023/08/product1-17-1-60x60.png"
+  },
+  {
+    "id": 11,
+    "name": "Power Banks",
+    "image": "https://electron.ninetheme.com/wp-content/uploads/2023/08/4-2-1-60x60.jpg"
+  },
+  {
+    "id": 12,
+    "name": "CC Tv",
+    "image": "https://electron.ninetheme.com/wp-content/uploads/2023/08/product1-4-1-60x60.png"
+  },
+
+
+  {
+    "id": 13,
+    "name": "I phone",
+    "image": "https://electron.ninetheme.com/wp-content/uploads/2023/08/2-29-1-60x60.png"
+  },
+  {
+    "id": 14,
+    "name": "S22 Ultra",
+    "image": "https://electron.ninetheme.com/wp-content/uploads/2023/08/684-%C3%97-547-piksel-1-60x60.png"
+  },
+  {
+    "id": 15,
+    "name": "S23 Ultra",
+    "image": "https://electron.ninetheme.com/wp-content/uploads/2023/08/product1-2-1-60x60.png"
+  },
+  {
+    "id": 16,
+    "name": "Tab",
+    "image": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-14-1-60x60.png"
+  }
+]
