@@ -1,0 +1,133 @@
+[
+    {
+        "id": 1,
+        "color": "#FF5733",
+        "category_name": " Accessories",
+        "products": [
+            {
+                "name": "Samsung Powerbank",
+                "status": "available",
+                "price": 500,
+                "old_price": 600
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "color": "#33FF57",
+        "category_name": "Burds",
+        "products": [
+            {
+                "name": "Philips Soundbar",
+                "status": "available",
+                "price": 150,
+                "old_price": 200
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "color": "#3357FF",
+        "category_name": "Discounted",
+        "products": [
+            {
+                "name": "OPTOMA Projection",
+                "status": "available",
+                "price": 350,
+                "old_price": 400
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "color": "#F1C40F",
+        "category_name": "Laptop",
+        "products": [
+            {
+                "name": "Apple Airpods Headphones",
+                "status": "available",
+                "price": 20,
+                "old_price": 25
+            }
+            
+        ]
+    },
+    {
+        "id": 5,
+        "color": "#8E44AD",
+        "category_name": "LED Signage",
+        "products": [
+            {
+                "name": "Xiaomi Redmi Pad 6GB",
+                "status": "available",
+                "price": 60,
+                "old_price": 75
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "color": "#1ABC9C",
+        "category_name": "Mobile",
+        "products": [
+            {
+                "name": "HUAWEI Watch Ultimate",
+                "status": "available",
+                "price": 15,
+                "old_price": 20
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "color": "#E67E22",
+        "category_name": "Monitors",
+        "products": [
+            {
+                "name": "Xiaomi 12 Lite 5G + 4G",
+                "status": "available",
+                "price": 25,
+                "old_price": 30
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "color": "#2ECC71",
+        "category_name": "Projectors",
+        "products": [
+            {
+                "name": "OnePlus 10 Pro Android",
+                "status": "available",
+                "price": 5,
+                "old_price": 6
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "color": "#3498DB",
+        "category_name": "Sound Devices",
+        "products": [
+            {
+                "name": "OnePlus 11 5G Titan Black",
+                "status": "available",
+                "price": 3,
+                "old_price": 4
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "color": "#C0392B",
+        "category_name": "Tablets",
+        "products": [
+            {
+                "name": "Apple iPhone",
+                "status": "available",
+                "price": 40,
+                "old_price": 50
+            }
+        ]
+    }
+]

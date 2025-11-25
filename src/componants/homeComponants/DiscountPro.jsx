@@ -91,7 +91,7 @@ export default function DiscountPro() {
                 {products.map((item) => (
                     <div
                         key={item.id}
-                        className="border border-gray-400 w-full px-4 py-3 flex items-center gap-3 rounded-lg bg-white shadow hover:shadow-lg transition relative"
+                        className="border border-gray-400 w-full px-4 py-5 flex items-center gap-3 rounded-lg bg-white shadow hover:shadow-lg transition relative"
                     >
                         {/* Tag */}
                         {item.tag && (

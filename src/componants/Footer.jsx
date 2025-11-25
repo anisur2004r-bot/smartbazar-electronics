@@ -34,7 +34,7 @@ const Footer = () => {
                         <div className='space-y-2'>
                             <p className='text-xl font-semibold'>Subscribe to the newsletter</p>
                             <div className='flex flex-col sm:flex-row items-stretch sm:items-center font-semibold rounded-md px-4 bg-black text-white w-full sm:w-auto py-2 sm:py-4'>
-                                <input className='text-black flex-1 px-2 py-1 sm:py-0' type="email" placeholder='Email' />
+                                <input className=' text-white outline-none flex-1 px-2 py-1 sm:py-0' type="email" placeholder='Email' />
                                 <button className='sm:ml-2 bg-yellow-500 px-4 py-1 rounded mt-2 sm:mt-0'>Submit</button>
                             </div>
                         </div>
@@ -128,7 +128,7 @@ const Footer = () => {
             </div>
 
             {/* Bottom Section */}
-            <div className='bg-gray-700 text-white py-6'>
+            <div className=' py-6'>
                 <div className='container mx-auto flex flex-col md:flex-row justify-between items-center gap-4 px-4'>
                     <div className='space-y-2 text-center md:text-left'>
                         <p className='text-xl font-semibold'>Secure Shopping</p>

@@ -1,5 +1,6 @@
 // ReviewCarousel.jsx
 "use client";
+import Link from "next/link";
 import React, { useEffect, useState, useRef } from "react";
 
 const ProductsReview = () => {
@@ -40,7 +41,7 @@ const ProductsReview = () => {
                         <h2 className="text-2xl font-bold mb-6 translate-y-3">Customer Reviews</h2>
                         <p>Our references are very valuable, the result of a great effort...</p>
                     </div>
-                    <button className="bg-[#2252D1] text-white font-semibold px-8 py-4 rounded-full hover:bg-[#011962] cursor-pointer duration-300">Chack Products</button>
+                    <button className="bg-[#2252D1] text-white font-semibold px-8 py-4 rounded-full hover:bg-[#011962] cursor-pointer duration-300"><Link href={"features"}>Chack Products</Link></button>
                 </div>
                 <div
                     ref={scrollRef}
@@ -49,7 +50,7 @@ const ProductsReview = () => {
                     {reviews.map((review) => (
                         <div
                             key={review.id}
-                            className="flex-shrink-0 w-90 h-90 p-5 bg-white border rounded-lg shadow-lg"
+                            className="flex-shrink-0 w-90 h-90 p-5 bg-white border border-gray-300 rounded-lg shadow-lg"
                         >
                             <div className="flex items-center gap-3 mb-3">
                                 <p className="bg-gray-300 px-2 py-4 rounded-full text-black font-semibold border-green-500 border-2 text-gray-500">Client</p>

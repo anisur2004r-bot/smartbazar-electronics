@@ -49,7 +49,7 @@ export default function Home() {
   if (loading) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-white text-gray-700">
-        <p>লোড হচ্ছে...</p>
+        <p className="text-2xl font-semibold">Loading...</p>
       </div>
     );
   }

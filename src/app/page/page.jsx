@@ -1,9 +1,10 @@
+import PageHero from '@/componants/pageComponants/PageHero';
 import React from 'react';
 
 const page = () => {
     return (
-        <div>
-            <p>page</p>
+        <div className='bg-white'>
+            <PageHero></PageHero>
         </div>
     );
 };
