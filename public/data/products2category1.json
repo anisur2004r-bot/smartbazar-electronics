@@ -1,0 +1,284 @@
+[
+    {
+        "id": 1,
+        "categoryId": 1,
+        "name": "Samsung Powerbank",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-44-1-300x240.png",
+        "originalPrice": 87.99,
+        "currentPrice": 81.99,
+        "stock": 6,
+        "features": [
+            "5 Years Guarantee",
+            "Free shipping returns",
+            "Installment up to 9 months"
+        ],
+        "tag": "Best Seller",
+        "discount": "7%",
+        "discountEndsIn": "2025-12-30T23:59:59"
+    },
+    {
+        "id": 2,
+        "categoryId": 1,
+        "name": "Philips Soundbar",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/2-42-1-300x240.png",
+        "originalPrice": 69.99,
+        "currentPrice": 59.99,
+        "stock": 10,
+        "features": [
+            "5 Years Guarantee",
+            "Free shipping returns",
+            "Installment up to 9 months"
+        ],
+        "tag": "Trending",
+        "discountEndsIn": "2025-12-30T23:59:59"
+    },
+    {
+        "id": 3,
+        "categoryId": 1,
+        "name": "OPTOMA Projection",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/3-36-1-300x240.png",
+        "originalPrice": 39.99,
+        "currentPrice": 34.99,
+        "stock": 8,
+        "features": [
+            "2 Years Guarantee",
+            "Free shipping returns"
+        ],
+        "discountEndsIn": "2025-12-20T23:59:59"
+    },
+    {
+        "id": 4,
+        "categoryId": 5,
+        "name": "Apple Airpods Headphones",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-42-1-300x240.png",
+        "originalPrice": 59.99,
+        "currentPrice": 49.99,
+        "stock": 12,
+        "features": [
+            "2 Years Guarantee",
+            "Free shipping returns",
+            "Installment up to 6 months"
+        ],
+        "tag": "Trending",
+        "discountEndsIn": "2025-12-20T23:59:59"
+    },
+    {
+        "id": 5,
+        "categoryId": 4,
+        "name": "Xiaomi Redmi Pad 6GB",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-41-1-300x240.png",
+        "originalPrice": 89.99,
+        "currentPrice": 79.99,
+        "stock": 7,
+        "features": [
+            "3 Years Guarantee",
+            "Free shipping returns",
+            "Installment up to 6 months"
+        ],
+        "tag": "Best Seller",
+        "discount": "10%",
+        "discountEndsIn": "2025-12-30T23:59:59"
+    },
+    {
+        "id": 6,
+        "categoryId": 1,
+        "name": "HUAWEI Watch Ultimate",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-40-1-300x240.png",
+        "originalPrice": 249.99,
+        "currentPrice": 219.99,
+        "stock": 5,
+        "features": [
+            "1 Year Guarantee",
+            "Free shipping returns",
+            "Installment up to 12 months"
+        ],
+        "discountEndsIn": "2025-12-30T23:59:59"
+    },
+    {
+        "id": 7,
+        "categoryId": 2,
+        "name": "Xiaomi 12 Lite 5G + 4G",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-39-1-300x240.png",
+        "originalPrice": 29.99,
+        "currentPrice": 24.99,
+        "stock": 10,
+        "features": [
+            "1 Year Guarantee",
+            "Free shipping returns"
+        ],
+        "discountEndsIn": "2025-12-30T23:59:59"
+    },
+    {
+        "id": 8,
+        "categoryId": 2,
+        "name": "OnePlus 10 Pro Android",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/product1-18-1-300x240.png",
+        "originalPrice": 59.99,
+        "currentPrice": 54.99,
+        "stock": 6,
+        "features": [
+            "2 Years Guarantee",
+            "Free shipping returns",
+            "Installment up to 6 months"
+        ],
+        "tag": "New",
+        "discount": "8%",
+        "discountEndsIn": "2025-12-30T23:59:59"
+    },
+    {
+        "id": 9,
+        "categoryId": 2,
+        "name": "OnePlus 11 5G Titan Black",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-38-1-300x240.png",
+        "originalPrice": 279.99,
+        "currentPrice": 259.99,
+        "stock": 4,
+        "features": [
+            "5 Years Guarantee",
+            "Free shipping returns",
+            "Installment up to 12 months"
+        ],
+        "discountEndsIn": "2025-12-30T23:59:59"
+    },
+    {
+        "id": 10,
+        "categoryId": 2,
+        "name": "Apple iPhone",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-31-1-300x240.png",
+        "originalPrice": 39.99,
+        "currentPrice": 34.99,
+        "stock": 15,
+        "features": [
+            "1 Year Guarantee",
+            "Free shipping returns",
+            "Installment up to 3 months"
+        ],
+        "tag": "New",
+        "discount": "12%",
+        "discountEndsIn": "2025-12-30T23:59:59"
+    },
+    {
+        "id": 11,
+        "categoryId": 6,
+        "name": "Lenovo Laptop",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-26-1-300x240.png",
+        "originalPrice": 99.99,
+        "currentPrice": 89.99,
+        "stock": 8,
+        "features": [
+            "3 Years Guarantee",
+            "Free shipping returns",
+            "Installment up to 6 months"
+        ],
+        "discountEndsIn": "2025-12-30T23:59:59"
+    },
+    {
+        "id": 12,
+        "categoryId": 3,
+        "name": "Samsung TV",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-28-1-300x240.png",
+        "originalPrice": 49.99,
+        "currentPrice": 44.99,
+        "stock": 10,
+        "features": [
+            "2 Years Guarantee",
+            "Free shipping returns",
+            "Installment up to 4 months"
+        ],
+        "tag": "Best Seller",
+        "discountEndsIn": "2025-12-30T23:59:59"
+    },
+    {
+        "id": 13,
+        "categoryId": 3,
+        "name": "LED TV",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-37-1-300x240.png",
+        "originalPrice": 699.99,
+        "currentPrice": 649.99,
+        "stock": 5,
+        "features": [
+            "3 Years Guarantee",
+            "Free shipping returns"
+        ],
+        "tag": "Trending",
+        "discount": "8%",
+        "discountEndsIn": "2025-12-30T23:59:59"
+    },
+    {
+        "id": 14,
+        "categoryId": 6,
+        "name": "HP Pavilion 14",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/product1-17-1-300x240.png",
+        "originalPrice": 749.99,
+        "currentPrice": 699.99,
+        "stock": 3,
+        "features": [
+            "2 Years Guarantee",
+            "Free shipping returns"
+        ],
+        "discountEndsIn": "2025-12-30T23:59:59"
+    },
+    {
+        "id": 15,
+        "categoryId": 4,
+        "name": "Lenovo IdeaPad 3",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-36-1-300x240.png",
+        "originalPrice": 599.99,
+        "currentPrice": 559.99,
+        "stock": 4,
+        "features": [
+            "3 Years Guarantee",
+            "Free shipping returns",
+            "Installment up to 6 months"
+        ],
+        "discountEndsIn": "2025-12-30T23:59:59"
+    },
+    {
+        "id": 16,
+        "categoryId": 4,
+        "name": "MacBook Air M2",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-35-1-300x240.png",
+        "originalPrice": 1199.99,
+        "currentPrice": 1149.99,
+        "stock": 2,
+        "features": [
+            "1 Year Guarantee",
+            "Free shipping returns"
+        ],
+        "tag": "New",
+        "discount": "5%",
+        "discountEndsIn": "2025-12-30T23:59:59"
+    },
+    {
+        "id": 17,
+        "categoryId": 4,
+        "name": "Sony Headphones",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-33-1-300x240.png",
+        "originalPrice": 129.99,
+        "currentPrice": 119.99,
+        "stock": 5,
+        "features": [
+            "5 Years Guarantee",
+            "Free shipping returns",
+            "Installment up to 12 months"
+        ],
+        "tag": "New",
+        "discount": "8%",
+        "discountEndsIn": "2025-12-30T23:59:59"
+    },
+    {
+        "id": 18,
+        "categoryId": 2,
+        "name": "Apple iPhone",
+        "img": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-45-1-300x240.png",
+        "originalPrice": 99.99,
+        "currentPrice": 89.99,
+        "stock": 6,
+        "features": [
+            "2 Years Guarantee",
+            "Free shipping returns",
+            "Installment up to 6 months"
+        ],
+        "discountEndsIn": "2025-12-30T23:59:59"
+    }
+]

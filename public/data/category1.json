@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "WATCH & POWER & SOUNDBOX",
+        "img": "https://icons8.com/icon/85773/laptop"
+    },
+    {
+        "id": 2,
+        "name": "MOBILE",
+         "img": "https://icons8.com/icon/rKtrHiVUADfP/iphone-17-pro"
+    },
+    {
+        "id": 3,
+        "name": "MONITOR",
+         "img": "https://icons8.com/icon/buti0ig4reqf/monitor"
+    },
+    {
+        "id": 4,
+        "name": "TABLET",
+         "img": "https://icons8.com/icon/wLBQotYLtKHQ/ipad-lock-screen"
+    },
+    {
+        "id": 5,
+        "name": "AIRBIRD",
+         "img": "https://icons8.com/icon/9989/tv"
+    },
+    {
+        "id": 6,
+        "name": "LAPTOB",
+         "img": "https://icons8.com/icon/lMK80N2QxxpY/camera"
+    }
+]

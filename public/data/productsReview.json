@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "reviewer": "John Doe",
+    "designation": "Reviewer",
+    "rating": 5,
+    "review": "Electronic products are developing a little more every day to make our lives easier. They adapt to the developing digital world.",
+    "timeAgo": "2 years ago",
+    "productName": "Samsung Powerbank",
+    "productImg": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-44-1-300x240.png"
+  },
+  {
+    "id": 2,
+    "reviewer": "Jane Smith",
+    "designation": "Reviewer",
+    "rating": 4,
+    "review": "Great product quality and reliable performance. Highly recommended for daily use.",
+    "timeAgo": "1 year ago",
+    "productName": "Philips Soundbar",
+    "productImg": "https://electron.ninetheme.com/wp-content/uploads/2023/08/2-42-1-300x240.png"
+  },
+  {
+    "id": 3,
+    "reviewer": "Michael Brown",
+    "designation": "Reviewer",
+    "rating": 5,
+    "review": "Amazing features and easy to use. Totally satisfied with the purchase.",
+    "timeAgo": "8 months ago",
+    "productName": "OPTOMA Projection",
+    "productImg": "https://electron.ninetheme.com/wp-content/uploads/2023/08/3-36-1-300x240.png"
+  },
+  {
+    "id": 4,
+    "reviewer": "Emily Johnson",
+    "designation": "Reviewer",
+    "rating": 4,
+    "review": "Good product for its price. The design and performance are excellent.",
+    "timeAgo": "6 months ago",
+    "productName": "Apple Airpods Headphones",
+    "productImg": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-42-1-300x240.png"
+  },
+  {
+    "id": 5,
+    "reviewer": "David Wilson",
+    "designation": "Reviewer",
+    "rating": 5,
+    "review": "High-quality electronic item. Works perfectly and meets expectations.",
+    "timeAgo": "1 month ago",
+    "productName": "Xiaomi Redmi Pad 6GB",
+    "productImg": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-41-1-300x240.png"
+  },
+  {
+    "id": 6,
+    "reviewer": "Sophia Lee",
+    "designation": "Reviewer",
+    "rating": 4,
+    "review": "Fast delivery and product is as described. Very happy with the purchase.",
+    "timeAgo": "3 weeks ago",
+    "productName": "HUAWEI Watch Ultimate",
+    "productImg": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-40-1-300x240.png"
+  },
+  {
+    "id": 7,
+    "reviewer": "Daniel Martinez",
+    "designation": "Reviewer",
+    "rating": 5,
+    "review": "Excellent electronic product. Highly durable and reliable.",
+    "timeAgo": "2 weeks ago",
+    "productName": "Xiaomi 12 Lite 5G + 4G",
+    "productImg": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-39-1-300x240.png"
+  },
+  {
+    "id": 8,
+    "reviewer": "Olivia Garcia",
+    "designation": "Reviewer",
+    "rating": 4,
+    "review": "Good value for money. The product works exactly as expected.",
+    "timeAgo": "1 week ago",
+    "productName": "OnePlus 10 Pro Android",
+    "productImg": "https://electron.ninetheme.com/wp-content/uploads/2023/08/product1-18-1-300x240.png"
+  },
+  {
+    "id": 9,
+    "reviewer": "William Rodriguez",
+    "designation": "Reviewer",
+    "rating": 5,
+    "review": "High performance and sleek design. Totally satisfied.",
+    "timeAgo": "5 days ago",
+    "productName": "OnePlus 11 5G Titan Black",
+    "productImg": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-38-1-300x240.png"
+  },
+  {
+    "id": 10,
+    "reviewer": "Isabella Hernandez",
+    "designation": "Reviewer",
+    "rating": 5,
+    "review": "Perfect product for my needs. Easy to use and reliable.",
+    "timeAgo": "3 days ago",
+    "productName": "Apple iPhone",
+    "productImg": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-31-1-300x240.png"
+  },
+  {
+    "id": 11,
+    "reviewer": "James Clark",
+    "designation": "Reviewer",
+    "rating": 4,
+    "review": "Very good product. Performance is consistent and smooth.",
+    "timeAgo": "2 days ago",
+    "productName": "Lenovo Laptop",
+    "productImg": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-26-1-300x240.png"
+  },
+  {
+    "id": 12,
+    "reviewer": "Mia Lewis",
+    "designation": "Reviewer",
+    "rating": 5,
+    "review": "Excellent quality and fast delivery. Highly recommended.",
+    "timeAgo": "1 day ago",
+    "productName": "Samsung TV",
+    "productImg": "https://electron.ninetheme.com/wp-content/uploads/2023/08/1-28-1-300x240.png"
+  }
+]
