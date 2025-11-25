@@ -9,7 +9,7 @@ const ProductsReview = () => {
     useEffect(() => {
         // Fetch JSON data
         const fetchReviews = async () => {
-            const res = await fetch("http://localhost:3000/data/productsReview.json"); // তুমি reviews.json path ঠিক করবে
+            const res = await fetch("/data/productsReview.json"); // তুমি reviews.json path ঠিক করবে
             const data = await res.json();
             setReviews(data);
         };
